@@ -5417,6 +5417,7 @@ rxjs@^5.4.0, rxjs@^5.4.2:
 rxsync@^0.0.3:
   version "0.0.3"
   resolved "https://registry.yarnpkg.com/rxsync/-/rxsync-0.0.3.tgz#ef33125395fa144e172c217b54eb0e6c4b713c12"
+  integrity sha1-7zMSU5X6FE4XLCF7VOsObEtxPBI=
   dependencies:
     rxjs "^5.4.0"
 
